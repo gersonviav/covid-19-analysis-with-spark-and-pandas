@@ -1,0 +1,16 @@
+country_region :string
+continent:string
+population:int
+totalases:int
+newcases:int
+totaldeaths:int
+newdeaths:int
+totalrecovered:int
+newrecovered:int
+activecases:int
+serious_critical:int
+totcases1Mpop:int
+deaths1Mpop:int
+totaltests:int
+tests1Mpop:int
+who_region :string
