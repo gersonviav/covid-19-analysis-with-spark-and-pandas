@@ -1,0 +1,9 @@
+date:date
+country_region :string
+confirmed:int
+recovered:int
+actived:int
+new_cases:int
+new_deaths :int
+new_recovered:int
+who_region:string

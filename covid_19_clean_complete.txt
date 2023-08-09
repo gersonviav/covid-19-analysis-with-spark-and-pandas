@@ -1,0 +1,10 @@
+province_state :string
+country_region :string
+Lat :double
+Long :double
+date :date
+confirmed :int
+deaths :int
+recovered :int
+actived :int
+whor_region :string

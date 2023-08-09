@@ -1,0 +1,15 @@
+country_region :string
+confirmed:int
+deaths :int
+recovered:int
+actived:int
+new_cases:int
+new_deaths :int
+new_recovered:int
+deaths100cases :double
+recoverded100cases :double
+deaths100recovered :double
+confirmedlastweek :int
+1weekchange :int
+1weekperincrease :double
+who_region : string
