@@ -1,0 +1,13 @@
+uid:int
+iso2 :string
+iso3:string
+code3:int
+fips:double
+admin2:string
+province_state :string
+country_region:string
+lat :double
+long:double
+date:date
+confirmed :int
+deaths :int
